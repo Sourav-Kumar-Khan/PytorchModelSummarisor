@@ -1,6 +1,6 @@
-# Shodh-AI-Assignment
+# PytorchModelSummarisor
  
-# Natural Language Inference Assignment: Neural Network Description Generator
+# Natural Language Inference: Neural Network Description Generator
 
 ## Project Overview
 This project aims to develop a sequence-to-sequence (seq2seq) model that generates concise and coherent descriptions of PyTorch neural network models. The model will take a PyTorch neural network as input and produce a clear textual summary, explaining the input shape and output shape of the network.
